@@ -3,32 +3,32 @@
 3    package="org.kuzai.universalindex.test" >
 4
 5    <uses-sdk
-5-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:5:5-74
+5-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:5:5-74
 6        android:minSdkVersion="24"
-6-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:5:15-41
+6-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:5:15-41
 7        android:targetSdkVersion="34" />
-7-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:5:42-71
+7-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:5:42-71
 8
 9    <instrumentation
-9-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:11:5-15:74
+9-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:11:5-15:74
 10        android:name="android.test.InstrumentationTestRunner"
-10-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:11:22-75
+10-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:11:22-75
 11        android:functionalTest="false"
-11-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:14:22-52
+11-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:13:22-53
+12-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:13:22-53
 13        android:label="Tests for org.kuzai.universalindex"
-13-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:15:22-72
+13-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:15:22-72
 14        android:targetPackage="org.kuzai.universalindex" />
-14-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:12:22-70
+14-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:12:22-70
 15
 16    <application
-16-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:7:5-9:19
+16-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:7:5-9:19
 17        android:debuggable="true"
 18        android:extractNativeLibs="false" >
 19        <uses-library android:name="android.test.runner" />
-19-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:8:9-60
-19-->/media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest13346887385486425800.xml:8:23-57
+19-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:8:9-60
+19-->/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12351432354784264059.xml:8:23-57
 20    </application>
 21
 22</manifest>

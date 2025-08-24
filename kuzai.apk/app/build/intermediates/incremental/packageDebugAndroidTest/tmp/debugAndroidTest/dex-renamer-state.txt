@@ -1,0 +1,4 @@
+#Sun Aug 24 19:24:09 CEST 2025
+base.0=/media/elijah/Data-3/GITHUB/kuzai.apk/kuzai.apk/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

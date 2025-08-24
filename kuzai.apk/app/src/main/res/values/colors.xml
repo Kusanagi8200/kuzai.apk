@@ -1,0 +1,8 @@
+<resources>
+    <!-- Palette inspirée de kuzai.org -->
+    <color name="kuzai_bg">#0B0F1A</color>
+    <color name="kuzai_primary">#00E5FF</color>
+    <color name="kuzai_secondary">#7A3CFF</color>
+    <color name="kuzai_text">#E6F1FF</color>
+    <color name="kuzai_surface">#12172A</color>
+</resources>

@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+color kuzai_bg
+color kuzai_primary
+color kuzai_secondary
+color kuzai_surface
+color kuzai_text
+drawable kuzai_bg
+style Theme.KuzAI

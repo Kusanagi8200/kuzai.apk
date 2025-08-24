@@ -1,0 +1,4 @@
+org.kuzai.universalindex.test.app-androidTest-0 /media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/generated/res/resValues/androidTest/debug
+org.kuzai.universalindex.test.app-mergeDebugAndroidTestResources-1 /media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+org.kuzai.universalindex.test.app-mergeDebugAndroidTestResources-2 /media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+org.kuzai.universalindex.test.app-debugAndroidTest-3 /media/elijah/Data-3/Downloads/KuzAI-UniversalAIIndex-Final/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
